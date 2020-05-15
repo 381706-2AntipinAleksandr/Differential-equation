@@ -20,4 +20,12 @@ Class FirstLab.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
   Fields:
-    System.Collections.Generic.List`1[System.Windows.Forms.DataVisualization.Charting.Series] ret IsByValue : Public, InitOnly
+    System.Collections.Generic.List`1[System.Double] _x IsByValue : Public, InitOnly
+    System.Collections.Generic.List`1[System.Double] _y IsByValue : Public, InitOnly
+    System.Collections.Generic.List`1[System.Double] _z IsByValue : Public, InitOnly
+    System.Collections.Generic.List`1[System.Double] coef IsByValue : Public, InitOnly
+    Double pogr : Public
+    Boolean lg : Public
+    Double t0 : Public
+    Double tf : Public
+    Double h : Public

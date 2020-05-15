@@ -1,5 +1,6 @@
 ﻿  MainForm.cpp
-D:\Study Projects\Numerical methods\FirstLab\FirstLab\MainForm.h(402,16): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
-D:\Study Projects\Numerical methods\FirstLab\FirstLab\MainForm.h(424,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study Projects\Numerical methods\FirstLab\FirstLab\MainForm.h(435,16): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Study Projects\Numerical methods\FirstLab\FirstLab\MainForm.h(461,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study Projects\Numerical methods\FirstLab\FirstLab\MainForm.h(469,17): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
   MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   FirstLab.vcxproj -> D:\Study Projects\Numerical methods\FirstLab\x64\Debug\FirstLab.exe
